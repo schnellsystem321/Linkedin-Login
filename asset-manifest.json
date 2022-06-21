@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Linkedin-Login/static/css/main.ef130991.chunk.css",
+    "main.js": "/Linkedin-Login/static/js/main.2dcdc6b9.chunk.js",
+    "main.js.map": "/Linkedin-Login/static/js/main.2dcdc6b9.chunk.js.map",
+    "runtime-main.js": "/Linkedin-Login/static/js/runtime-main.1a82254a.js",
+    "runtime-main.js.map": "/Linkedin-Login/static/js/runtime-main.1a82254a.js.map",
+    "static/js/2.f7aaa638.chunk.js": "/Linkedin-Login/static/js/2.f7aaa638.chunk.js",
+    "static/js/2.f7aaa638.chunk.js.map": "/Linkedin-Login/static/js/2.f7aaa638.chunk.js.map",
+    "index.html": "/Linkedin-Login/index.html",
+    "static/css/main.ef130991.chunk.css.map": "/Linkedin-Login/static/css/main.ef130991.chunk.css.map",
+    "static/js/2.f7aaa638.chunk.js.LICENSE.txt": "/Linkedin-Login/static/js/2.f7aaa638.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a82254a.js",
+    "static/js/2.f7aaa638.chunk.js",
+    "static/css/main.ef130991.chunk.css",
+    "static/js/main.2dcdc6b9.chunk.js"
+  ]
+}
